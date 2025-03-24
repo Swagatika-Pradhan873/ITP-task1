@@ -1,3 +1,3 @@
 # ITP-task1
-This is my first Git repository
-Author- Swagatika Pradhan from the department of production engineering
+I'm Swagatika Pradhan from the department of Production engineering.
+Here is my 1st repository.
